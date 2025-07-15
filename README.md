@@ -1,6 +1,6 @@
 # Análise descritiva 4 (Prática)
 
-Está atividade prática se relaciona a conteúdos de análise descritiva e contém os seguintes conceitos: 
+Esta atividade prática se relaciona a conteúdos de análise descritiva e contém os seguintes conceitos: 
 - Criação de tabela cruzada
 - Cálculo do *Weight of Evidence* (WOE)
 - Cálculo de *odds* e *odds ratio* relacionado ao número de eventos e não eventos
